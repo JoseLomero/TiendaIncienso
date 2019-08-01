@@ -1,0 +1,39 @@
+{
+   "Categorias": [
+      {
+         "id_categoria": 0,
+         "cat_nombre": "Conos",
+         "cat_descripcion": "Inciensos Conos naturales elaborados a base de mezclas de las mejores resinas, plantas, maderas y hiervas silvestres, cítricos y floración,  para haci poder conseguir un aroma natural  y un desarrollo en su combustión natural, sin aditivos tóxicos ni componentes químicos, 100% naturales. "
+      },
+      {
+         "id_categoria": 1,
+         "cat_nombre": "Resinas",
+         "cat_descripcion": "La resina es una sustancia organica, liquida y pegajosa de colo amarillo o amarillo-pardo, que segregan muchas plantas y arboles.En contacto con el aire se endurecen adoptando un aspecto amorfo y brillante, y cuando se queman desprenden un humo de olor muy aromático.Existen una gran variedad de ellas y dependiendo de sus características pueden ser duras, oleoresinas y gomoresinas. "
+      },
+      {
+         "id_categoria": 2,
+         "cat_nombre": "Inciensos",
+         "cat_descripcion": "Como bien sabemos, el uso del incienso ha estado presente a lo largo de la historia en diferentes culturas y tradiciones, y es que desde tiempo inmemorables se ha sabido que el incienso es una fuente de salud mental, emocional y física.El uso de incienso no solo aporta a nuestra vida una base aromática sino que a su vez influye muy positivamente en la infinidad de beneficios que existen en su uso, por ejemplo: el aparato respiratorio, mejora cuando es tratado con determinados inciensos para aliviar los síntomas de las infecciones pulmonares, la bronquitis, la tos, el catarro o la laringitis. Incluso algunos psicólogos lo usan en sus consultas para aliviar el estado de ansiedad o de estrés. Y muy recomendado en los centros de yoga, relajación y meditación, por su alto estado de concentración que se consigue cuando quemamos incienso.La felicidad se construye a base de buenos hábitos convirtiéndolos en un arte de vivir. "
+      },
+      {
+         "id_categoria": 3,
+         "cat_nombre": "Palo Santo",
+         "cat_descripcion": "El árbol de Palo Santo , está directamente relacionado con el olfato ya que es utilizado para experiencias sensoriales como la aromaterapia y llega a proporcionar experiencias sublimes y sanaciones emocionales.El árbol de Palo Santo se en cuentra principalmente an América del Sur y se conoce como “ la madera sagrada “ o bulsera graveolens. Éste es realmente un árbol magico con propiedades medicinales extraordinarias y a lo largo del os años se ha utilizado para hacer incienso , mirra y copal.El Palo Santo es parte de la familia de los cítricos y tiene nota dulce de pino, menta y limón. Su madera contiene compuestos aromáticos que son muy evidentes cuando la quemamos .Desde hace siglos, los chamanes y sanadores Incas, hicieron famosa las cualidades de limpieza de la madera y sus regalos de protección. Actualmente muchas culturas indigenas lo siguen utilizando para auyentar a los malos espiritus de los pueblos y aldeas.En aromaterapia, el Palo Santo se utiliza comúnmente en forma de aceites esenciales obtenidos de la destilación.El Palo Santo libera la tensión relacionada con el estrés y la depresión, aumenta la preparación para la meditación y permite una conexción con la fuente de la creatividad. "
+      },
+      {
+         "id_categoria": 4,
+         "cat_nombre": "Herbal Natural",
+         "cat_descripcion": "Herbal natural es una selección de hierbas, plantas y otros que se han utilizado desde nuestros antepasados para quemar y obtener aromas naturales que se utilizaban en diferentes rituales. Estas hiervas eran el inicio de un bienestar espiritual para todos aquellos lugares donde eran quemados ya que conseguían limpiar las malas energía y purificar el estado ambiental que se generaba, por ello eran consideradas sagradas. Salvia blanca, cedro, lavanda, muérdago y otras hojas de plantas se utilizan para hacer nuestros incienso naturales y mezclados con resinas naturales se consiguen mezclas auténticamente ideales para nuestro equilibrio personal. "
+      },
+      {
+         "id_categoria": 5,
+         "cat_nombre": "Varas huecas",
+         "cat_descripcion": "Esta forma de incienso en vara tiene un centro de bambú. Las variedades de mayor calidad incluyen un centro de sándalo fragante. El centro se cubre de una gruesa capa de incienso que se quema junto con él. Esta presentación se produce frecuentemente en China y la India. Cuando se usa para el culto en la religión tradicional china, las varas huecas de incienso se conocen a veces como «varas joss»."
+      },
+      {
+         "id_categoria": 6,
+         "cat_nombre": "Varas macizas",
+         "cat_descripcion": "Este incienso en vara no tiene un núcleo de apoyo, siendo macizas. Al ser fácilmente divisible en trozos, permite determinar la cantidad concreta de incienso que se desea quemar. Esta es la forma más común de incienso en Japón."
+      }
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "Usuarios": [
+      {
+         "id_usuario": 1,
+         "user_nombre": "Pol",
+         "user_email": "prueba@gmail.com",
+         "user_pass": "123456",
+         "user_tipo": 1,
+         "user_dni": "11111111A",
+         "user_fecAlta": "2019-07-05",
+         "user_fecConfirmacion": "2019-07-05"
+      },
+      {
+         "id_usuario": 2,
+         "user_nombre": "Jose",
+         "user_email": "elmasmaquina@gmail.com",
+         "user_pass": "123456",
+         "user_tipo": 7,
+         "user_dni": "22222222B",
+         "user_fecAlta": "2019-07-05",
+         "user_fecConfirmacion": "2019-07-05"
+      },
+      {
+         "id_usuario": 3,
+         "user_nombre": "Pepe",
+         "user_email": "pepe@gmail.com",
+         "user_pass": "123456",
+         "user_tipo": 2,
+         "user_dni": "33333333C",
+         "user_fecAlta": "2019-07-05",
+         "user_fecConfirmacion": "2019-07-05"
+      },
+      {
+         "id_usuario": 8,
+         "user_nombre": "Juan",
+         "user_email": "juan@gmail.com",
+         "user_pass": "123456",
+         "user_tipo": 0,
+         "user_dni": "44444444D",
+         "user_fecAlta": "2019-07-05",
+         "user_fecConfirmacion": "2019-07-05"
+      },
+      {
+         "id_usuario": 42,
+         "user_nombre": "Alvaro",
+         "user_email": "123@42.com",
+         "user_pass": "123456",
+         "user_tipo": 9,
+         "user_dni": "55555555E",
+         "user_fecAlta": "1997-07-17",
+         "user_fecConfirmacion": "2019-07-05"
+      },
+      {
+         "id_usuario": 21,
+         "user_nombre": "Señor X",
+         "user_email": "asd@def.com",
+         "user_pass": "123456",
+         "user_tipo": 1,
+         "user_dni": "55555555E",
+         "user_fecAlta": "1107-02-11",
+         "user_fecConfirmacion": "2019-07-05"
+      }
+   ]
+}

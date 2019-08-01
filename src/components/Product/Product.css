@@ -1,0 +1,13 @@
+.product-img {
+    width: 20em;
+    height: 10em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.product-img-full {
+    width: 40em;
+    height: 40em;
+}
